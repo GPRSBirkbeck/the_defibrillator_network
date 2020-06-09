@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">The Defibrillator Network</string>
+    <string name="title_activity_map_find_defibrillator">Map</string>
+</resources>
